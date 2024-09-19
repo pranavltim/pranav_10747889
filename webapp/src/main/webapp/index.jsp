@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Virtual TechBox Youtube Channel</h1>
+    <h1>Welcome TO LTIMindtree!!! You Are Learning Devops!!!!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> Thank You Visit Again On LTIMindtree.com </h1>
   
 </form>
